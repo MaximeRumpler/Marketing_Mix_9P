@@ -1,40 +1,52 @@
 <div align="center">
 
-[![Marketing mix 9P : formation libre, neuf questions pour regarder une offre autrement](assets/banner.svg)](https://github.com/MaximeRumpler/Marketing_Mix_9P)
+[![Marketing mix 9P : les neuf P dessinés comme les curseurs d'une table de mixage](assets/banner.svg)](https://github.com/MaximeRumpler/Marketing_Mix_9P)
 
-*Le marketing mix expliqué simplement : des 4P aux 9P, une grille de neuf questions à poser à n'importe quelle offre, projet ou idée.*
+*Le marketing mix expliqué simplement : des 4P aux 9P, neuf questions à poser à une offre, un projet ou une idée.*
 
 [![Licence](https://img.shields.io/badge/Licence-CC_BY--SA_4.0-10B981?style=flat-square&labelColor=1C2333)](LICENSE)
-[![Diapositives](https://img.shields.io/badge/Formation-36_diapositives-10B981?style=flat-square&labelColor=1C2333)](formation/Marketing_mix_9P.pdf)
-[![Durée](https://img.shields.io/badge/Durée-45_min-10B981?style=flat-square&labelColor=1C2333)](#le-déroulé-en-45-minutes)
-[![Langue](https://img.shields.io/badge/Langue-Français-10B981?style=flat-square&labelColor=1C2333)](#in-english)
-[![Site](https://img.shields.io/badge/Site-kairostech.fr-10B981?style=flat-square&labelColor=1C2333)](https://kairostech.fr)
+[![Diapositives](https://img.shields.io/badge/Formation-36_diapositives-10B981?style=flat-square&labelColor=1C2333)](formation/Marketing_Mix_9P.pdf)
+[![Durée](https://img.shields.io/badge/Durée-45_min_à_2_h-10B981?style=flat-square&labelColor=1C2333)](#déroulé-et-formats)
+[![Langue](https://img.shields.io/badge/Langue-Français-10B981?style=flat-square&labelColor=1C2333)](#réutiliser-adapter-traduire)
+[![Site](https://img.shields.io/badge/Site-kairostech.fr-10B981?style=flat-square&labelColor=1C2333)](https://kairostech.fr?utm_source=github&utm_medium=readme&utm_campaign=marketing-mix-9p)
 
 </div>
 
-* * *
+# Le marketing mix en 9P : formation libre, des 4P aux 9P
 
 ## De quoi s'agit-il ?
 
-Une formation courte et libre sur le **marketing mix**, pour celles et ceux qui doivent faire adopter une offre sans avoir fait d'école de commerce : fondateurs, ingénieurs, chercheurs, responsables de projet.
+Une formation courte et libre sur le marketing mix, pour les personnes qui doivent faire adopter une offre sans avoir fait d'école de commerce : fondateurs, ingénieurs, chercheurs, chefs de projet.
 
-Le marketing mix est un ensemble de leviers que l'on règle pour qu'une offre trouve son public. Le modèle d'origine en compte quatre (les **4P**), les services en ajoutent trois (les **7P**), et cette formation en ajoute deux de plus (les **9P**). Pour chaque P, la formation donne **une question à se poser, un exemple concret et l'erreur la plus fréquente**.
+Le marketing mix rassemble les leviers que l'on règle pour qu'une offre trouve son public. Le modèle d'origine en compte quatre, les 4P. Le marketing des services en ajoute trois, ce qui donne les 7P. Cette formation en ajoute deux autres, d'où les 9P. Chaque P est traité en trois diapositives : la question à se poser, un exemple concret, l'erreur que l'on voit le plus souvent.
 
 <p align="center">
-  <a href="formation/Marketing_mix_9P.pdf">
-    <img src="assets/slide-06-neuf-leviers.png" alt="Les neuf leviers du marketing mix en 9P : produit, prix, place, promotion, personnes, processus, preuves physiques, Purple Cow, partenariat" width="100%" />
+  <a href="formation/Marketing_Mix_9P.pdf">
+    <img src="assets/slide-06-neuf-leviers.png" alt="Diapositive 6, « Neuf leviers pour décrire une offre » : 1 Produit, ce que l'on propose ; 2 Prix, ce que l'on demande ; 3 Place, où l'on vous trouve ; 4 Promotion, comment on vous connaît ; 5 Personnes, qui incarne l'offre ; 6 Processus, le parcours du client ; 7 Preuves physiques, ce qui rassure ; 8 Purple Cow, ce qu'on raconte ; 9 Partenariat, avec qui l'on avance" width="100%" />
   </a>
 </p>
 
-**[Lire la formation en PDF](formation/Marketing_mix_9P.pdf)** (36 diapositives, 45 minutes) · **[Télécharger la version PowerPoint](formation/Marketing_mix_9P.pptx)** pour l'adapter à votre cas.
+**[Lire la formation (PDF)](formation/Marketing_Mix_9P.pdf)** · [Télécharger le PowerPoint modifiable](formation/Marketing_Mix_9P.pptx)
+
+* * *
+
+## Ce que vous saurez faire
+
+À la fin de la formation, vous pourrez :
+
+- situer les 4P, les 7P et les 9P, et dire d'où vient chaque ajout (diapositives 4 et 5) ;
+- poser la question clé de chacun des neuf P à votre propre offre (diapositives 7 à 33) ;
+- reconnaître l'erreur la plus fréquente sur chaque levier ;
+- expliquer pourquoi un changement sur un P oblige à vérifier les autres (diapositive 34) ;
+- passer un projet entier à la grille des neuf questions (diapositive 35).
 
 * * *
 
 ## Les 9P en un coup d'œil
 
-Les sept premiers P forment le modèle classique du marketing des services. Les P 8 et 9 sont deux **bonus**, hors du modèle académique.
+Les sept premiers P forment le modèle classique du marketing des services. Les P 8 et 9 sont des bonus, hors du modèle académique.
 
-| | **Levier** | **Question à se poser** | **Exemple de la formation** | **Erreur fréquente** |
+| | Levier | Question à se poser | Exemple de la formation | Erreur fréquente |
 |:-:|:--|:--|:--|:--|
 | 1 | **Produit** | Quel besoin mon offre résout-elle vraiment ? | 1970 : la valise apprend à rouler | Ajouter des fonctions plutôt que répondre au besoin |
 | 2 | **Prix** | Quel prix le client accepte-t-il, et que dit-il de ma valeur ? | L'imprimante coûte peu, l'encre fait la marge | Fixer le prix à partir du coût, pas de la valeur |
@@ -43,8 +55,8 @@ Les sept premiers P forment le modèle classique du marketing des services. Les 
 | 5 | **Personnes** | Qui délivre l'offre, et avec quelle qualité de contact ? | Le vendeur qui regarde courir avant de conseiller | Négliger les personnes au contact du client |
 | 6 | **Processus** | Quel parcours le client traverse-t-il pour en profiter ? | Un vol se prépare depuis le canapé | Laisser des frictions décourager le client |
 | 7 | **Preuves physiques** | Quels signaux tangibles rassurent sur la qualité ? | La cuisine ouverte sur la salle | Oublier les preuves quand le client ne peut rien toucher |
-| 8 | **Purple Cow** *(bonus)* | Qu'est-ce qui rend mon offre digne d'être racontée ? | Une colle ratée devenue le Post-it | Confondre « un peu meilleur » et « remarquable » |
-| 9 | **Partenariat** *(bonus)* | Avec qui créer plus de valeur qu'en restant seul ? | La marque de café qui ne fabrique pas ses machines | Signer un partenariat de façade |
+| 8 | **Purple Cow** (bonus) | Qu'est-ce qui rend mon offre digne d'être racontée ? | Une colle ratée devenue le Post-it | Confondre « un peu meilleur » et « remarquable » |
+| 9 | **Partenariat** (bonus) | Avec qui créer plus de valeur qu'en restant seul ? | La marque de café qui ne fabrique pas ses machines | Signer un partenariat de façade |
 
 * * *
 
@@ -52,104 +64,109 @@ Les sept premiers P forment le modèle classique du marketing des services. Les 
 
 | Année | Qui | Apport |
 |:-:|:--|:--|
-| fin des années 1940 | Neil Borden | Emploie l'expression « marketing mix » |
-| 1960 | E. Jerome McCarthy | Ramène le marketing à quatre leviers : Product, Price, Place, Promotion. Les **4P** |
-| 1981 | Bernard Booms et Mary Jo Bitner | Ajoutent People, Process et Physical evidence pour les services. On passe aux **7P** |
-| 1996 | Christopher Lovelock | Ses manuels de marketing des services installent les 7P dans l'enseignement |
-| 2003 | Seth Godin | *Purple Cow* : dans un marché saturé, seul ce qui est remarquable se remarque. C'est le **8e P** |
+| 1948-1964 | Neil Borden | Parle de « marketing mix » dès la fin des années 1940, puis publie en 1964 l'article qui fixe l'expression |
+| 1960 | E. Jerome McCarthy | Ramène le marketing à quatre leviers : Product, Price, Place, Promotion. Ce sont les 4P |
+| 1981 | Bernard Booms et Mary Jo Bitner | Ajoutent People, Process et Physical evidence pour les services, d'où les 7P |
+| 1996 | Christopher Lovelock | Ses manuels de marketing des services diffusent ces P dans l'enseignement |
+| 2003 | Seth Godin | *Purple Cow* : dans un marché saturé, seul ce qui est remarquable se remarque. La formation en fait son 8e P |
 
-Le **9e P**, Partenariat, circule dans les modèles à 10P sans auteur de référence. La formation le prend comme une grille de réflexion, pas comme un standard.
+Le 9e P, Partenariat, apparaît par exemple chez Alastair Morrison, dans ses 8P du marketing touristique (1989). Il circule depuis dans plusieurs variantes à 8 ou 10P, sans version de référence. La formation le prend comme une grille de réflexion, pas comme un standard.
 
 * * *
 
 ## Un mix, pas une liste
 
-Les P ne se gèrent pas chacun dans son coin : toucher un levier en déplace d'autres. Deux exemples vus dans la formation :
+Toucher un levier en déplace d'autres. La diapositive 34 en donne deux exemples :
 
-- **Prix (2) et preuves (7).** Baisser le prix sans soigner les preuves : la qualité perçue chute, la marge aussi.
-- **Promotion (4) et processus (6).** Lancer la communication avant que le parcours soit prêt : on attire des clients vers une offre qui ne tient pas.
+- Prix (2) et preuves (7) : baisser le prix sans soigner les preuves fait chuter la qualité perçue, et la marge avec.
+- Promotion (4) et processus (6) : lancer la communication avant que le parcours soit prêt attire des clients vers une offre qui ne tient pas encore.
 
-La formation se termine sur une **fiche à emporter** : les neuf questions, à reposer sur votre propre cas.
+La diapositive 35 reprend les neuf questions sur une seule page, à garder sous les yeux pour votre propre cas.
 
 * * *
 
-## Le déroulé en 45 minutes
+## Déroulé et formats
 
-| | **Temps** | **Contenu** |
-|:-:|:--|:--|
-| 01 | D'où vient le modèle | Soixante ans d'histoire en une minute |
-| 02 | Les 9P, un par un | Une question, un exemple, une erreur fréquente |
-| 03 | Un mix, pas une liste | Pourquoi tout se tient |
-| 04 | À emporter | Neuf questions à reposer à votre propre cas |
+| Séquence | Contenu | Diapositives |
+|:--|:--|:-:|
+| D'où vient le modèle | Soixante ans d'histoire en une minute | 4-6 |
+| Les 9P, un par un | Une question, un exemple, une erreur fréquente | 7-33 |
+| Un mix, pas une liste | Pourquoi tout se tient | 34 |
+| À emporter | Neuf questions à reposer à votre propre cas | 35-36 |
 
-Aucun prérequis. La formation sert aussi bien en autoformation qu'en atelier : une personne qui anime n'a qu'à projeter les diapositives et laisser les questions ouvertes.
+Aucun prérequis. Selon l'usage :
+
+- en lecture seule, comptez 20 à 30 minutes ;
+- en présentation, la formation est prévue pour 45 minutes, questions comprises ;
+- en atelier, chaque P se termine par une question « Et pour vous ? » à laquelle les participants répondent sur leur propre offre : prévoyez alors 1 h 30 à 2 h.
 
 * * *
 
 ## Questions fréquentes
 
 **Quelle différence entre les 4P, les 7P et les 9P ?**
-Les 4P (McCarthy, 1960) couvrent le produit, le prix, la place et la promotion. Les 7P (Booms et Bitner, 1981) ajoutent les personnes, les processus et les preuves physiques, parce qu'un service est immatériel et dépend de ceux qui le délivrent. Les 9P de cette formation ajoutent la Purple Cow (Seth Godin) et le Partenariat.
+Les 4P (McCarthy, 1960) couvrent le produit, le prix, la place et la promotion. Les 7P (Booms et Bitner, 1981) ajoutent les personnes, les processus et les preuves physiques, parce qu'un service est immatériel et dépend des gens qui le délivrent. Les 9P de cette formation ajoutent la Purple Cow de Seth Godin et le Partenariat.
 
 **À qui sert le marketing mix ?**
-À toute personne qui cherche à faire adopter quelque chose : un produit, un projet, une idée, un budget. Chaque fois, on choisit un public, un message et un moyen de le toucher.
+À toute personne qui doit faire adopter quelque chose, que ce soit un produit, un projet ou un budget. Il faut chaque fois choisir un public, un message et un moyen de le toucher.
 
-**Faut-il une formation marketing pour suivre ?**
-Non. Chaque P tient en trois diapositives : la question, un exemple du quotidien, l'erreur à éviter.
+**Faut-il des bases en marketing ?**
+Non. La plupart des exemples viennent de la vie courante : une valise, une imprimante, un restaurant.
 
 * * *
 
-## Utiliser et adapter la formation
+## Réutiliser, adapter, traduire
 
-| **Fichier** | **Usage** |
+| Fichier | Pour quoi faire |
 |:--|:--|
-| [`formation/Marketing_mix_9P.pdf`](formation/Marketing_mix_9P.pdf) | Lire ou projeter, sur tout appareil. |
-| [`formation/Marketing_mix_9P.pptx`](formation/Marketing_mix_9P.pptx) | Modifier les textes, les exemples et les couleurs, pour l'adapter à votre secteur. |
+| [`formation/Marketing_Mix_9P.pdf`](formation/Marketing_Mix_9P.pdf) | Lire ou projeter, sur n'importe quel appareil |
+| [`formation/Marketing_Mix_9P.pptx`](formation/Marketing_Mix_9P.pptx) | Changer les textes, les exemples ou les couleurs pour votre secteur |
 
-Le fichier PowerPoint utilise deux polices libres : [Outfit](https://fonts.google.com/specimen/Outfit) et [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono). Installez-les pour obtenir le rendu exact du PDF.
+Le PowerPoint utilise deux polices libres, [Outfit](https://fonts.google.com/specimen/Outfit) et [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono). Installez-les pour retrouver le rendu du PDF.
 
-Vous pouvez réutiliser, traduire, modifier et diffuser la formation, y compris dans un cadre commercial, à deux conditions : **citer la source** et **partager vos versions modifiées sous la même licence**. Voir [Licence](#licence).
+Vous pouvez réutiliser, modifier, traduire et diffuser la formation, y compris dans un cadre commercial, si vous :
 
-Pour citer : *KairosTech, Maxime Rumpler. « Le marketing mix en 9P », 2026. https://github.com/MaximeRumpler/Marketing_Mix_9P*. Un fichier [`CITATION.cff`](CITATION.cff) est fourni.
+1. citez la source : *« Le marketing mix en 9P », Maxime Rumpler, KairosTech, https://github.com/MaximeRumpler/Marketing_Mix_9P, CC BY-SA 4.0* ;
+2. indiquez ce que vous avez modifié ;
+3. publiez vos versions modifiées sous la même licence.
+
+Le fichier [`CITATION.cff`](CITATION.cff) donne la référence complète ; GitHub la propose aussi via le bouton *Cite this repository*. Une traduction ou une adaptation vous intéresse ? Signalez-la dans une [issue](https://github.com/MaximeRumpler/Marketing_Mix_9P/issues/new/choose), elle sera listée ici.
 
 * * *
 
 ## Pour aller plus loin
 
-**Références citées dans la formation**
+Références citées dans la formation :
 
-- E. J. McCarthy, *Basic Marketing: A Managerial Approach*, 1960
-- B. Booms et M. J. Bitner, *Marketing strategies and organization structures for service firms*, 1981
-- C. Lovelock, *Services Marketing*, 3e éd., 1996
-- S. Godin, *Purple Cow*, 2003
+- E. J. McCarthy, *Basic Marketing: A Managerial Approach*, Irwin, 1960
+- B. H. Booms et M. J. Bitner, « Marketing strategies and organization structures for service firms », dans J. H. Donnelly et W. R. George (dir.), *Marketing of Services*, American Marketing Association, 1981, p. 47-51
+- C. Lovelock, *Services Marketing*, 3e éd., Prentice Hall, 1996
+- S. Godin, *Purple Cow: Transform Your Business by Being Remarkable*, Portfolio, 2003
 
-**Du côté de KairosTech**
+Pour creuser l'historique :
 
-KairosTech accompagne les startups et PME technologiques dans leur go-to-market : offre, prix, positionnement, structuration des ventes. Si la grille des 9P soulève des questions sur votre propre offre, [parlons-en](mailto:contact@kairostech.fr).
+- N. H. Borden, « The Concept of the Marketing Mix », *Journal of Advertising Research*, vol. 4, n° 2, 1964, p. 2-7
+- A. M. Morrison, *Hospitality and Travel Marketing*, Delmar, 1989
 
-- [kairostech.fr](https://kairostech.fr), les offres Go-to-Market, Opérations et Public Affairs
-- [Structurer la vente en 3 étapes](https://kairostech.fr/news/go-to-market-startup-semis.html), un article sur le go-to-market des startups
+KairosTech accompagne les startups et PME technologiques sur leur go-to-market : offre, prix, positionnement, organisation des ventes. Pour en parler : [contact@kairostech.fr](mailto:contact@kairostech.fr).
 
-Une remarque, une erreur, un exemple à proposer ? [Ouvrez une issue](https://github.com/MaximeRumpler/Marketing_Mix_9P/issues/new).
+- [kairostech.fr](https://kairostech.fr?utm_source=github&utm_medium=readme&utm_campaign=marketing-mix-9p) : les offres Go-to-Market, Opérations et Public Affairs
+- [Structurer la vente en 3 étapes](https://kairostech.fr/news/go-to-market-startup-semis.html?utm_source=github&utm_medium=readme&utm_campaign=marketing-mix-9p) : un article sur le go-to-market des startups
 
-* * *
-
-## In English
-
-**Marketing_Mix_9P** is a free, open training deck (in French) that explains the marketing mix in plain words: the 4Ps (McCarthy, 1960), the 7Ps for services (Booms and Bitner, 1981), and two extra Ps, Purple Cow (Seth Godin, 2003) and Partnership. Each of the nine Ps comes with one key question, one everyday example and one common mistake. 36 slides, about 45 minutes, PDF and editable PowerPoint, licensed CC BY-SA 4.0.
+Une erreur à corriger ou un meilleur exemple à proposer ? [Ouvrez une issue](https://github.com/MaximeRumpler/Marketing_Mix_9P/issues/new/choose).
 
 * * *
 
 ## Licence
 
-[CC BY-SA 4.0](LICENSE) (Creative Commons Attribution - Partage dans les mêmes conditions 4.0 International). C'est la licence libre de référence pour les contenus pédagogiques. L'EUPL, licence de l'Union européenne utilisée pour nos dépôts logiciels, est conçue pour le code : la famille CC BY-SA figure dans sa liste de licences compatibles pour les œuvres qui ne sont pas du logiciel. Détails dans [NOTICE](NOTICE).
+Textes, diapositives et visuels sous licence [CC BY-SA 4.0](LICENSE) (Creative Commons Attribution, partage dans les mêmes conditions, 4.0 International). Le nom et le logo KairosTech ne sont pas couverts par la licence. Les icônes [Lucide](LICENSES/Lucide-ISC-and-Feather-MIT.txt) et les polices gardent leur propre licence. Détails dans [NOTICE](NOTICE).
 
 <div align="center">
 
 Réalisé par [**Maxime Rumpler**](https://github.com/MaximeRumpler) · [![KairosTech](https://img.shields.io/badge/Kairos-Tech-10B981?style=flat-square&labelColor=1C2333&logoColor=white)](https://github.com/KairosTech-fr) · [kairostech.fr](https://kairostech.fr)
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=MaximeRumpler&repo=Marketing_Mix_9P&color=44cc11&style=flat-square&label=views" alt="Repository Views" />
+  <img src="https://komarev.com/ghpvc/?username=MaximeRumpler&repo=Marketing_Mix_9P&color=44cc11&style=flat-square&label=views" alt="Nombre de vues du dépôt" />
 </p>
 
 </div>

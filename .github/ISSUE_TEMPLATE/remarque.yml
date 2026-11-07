@@ -1,0 +1,29 @@
+name: Remarque sur la formation
+description: Signaler une erreur, proposer un exemple, partager une adaptation ou un retour d'animation.
+title: "[Remarque] "
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: De quoi s'agit-il ?
+      options:
+        - Une erreur à corriger
+        - Un meilleur exemple à proposer
+        - Une traduction ou une adaptation à signaler
+        - Un retour après avoir animé la formation
+        - Autre chose
+    validations:
+      required: true
+  - type: input
+    id: diapo
+    attributes:
+      label: Diapositive concernée
+      description: Son numéro, si la remarque porte sur une diapositive précise.
+      placeholder: "ex. 12"
+  - type: textarea
+    id: details
+    attributes:
+      label: Votre remarque
+      description: Pour une erreur, donnez si possible une source. Pour un retour d'animation, précisez le public, le format et la durée réelle.
+    validations:
+      required: true

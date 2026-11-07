@@ -1,34 +1,53 @@
-Marketing_Mix_9P
-Copyright (c) 2026 Maxime Rumpler, KairosTech
+Le marketing mix en 9P
+© 2026 Maxime Rumpler (KairosTech)
 
-Ce dépôt présente la formation « Le marketing mix en 9P » : diapositives
-(PDF et PowerPoint), visuels et textes. Son contenu est placé sous licence
-Creative Commons Attribution - Partage dans les mêmes conditions 4.0
-International (CC BY-SA 4.0), voir LICENSE.
+Ce dépôt contient la formation « Le marketing mix en 9P » : diapositives
+(PDF et PowerPoint), visuels et textes. Sauf mention contraire ci-dessous,
+ce contenu est placé sous licence Creative Commons Attribution - Partage
+dans les mêmes conditions 4.0 International (CC BY-SA 4.0) :
+https://creativecommons.org/licenses/by-sa/4.0/deed.fr
+
+Le texte officiel de la licence figure dans LICENSE. Le résumé qui suit
+aide à la lire ; il ne la remplace pas.
 
 VOUS POUVEZ
 -----------
-Utiliser, copier, traduire, modifier et diffuser la formation, y compris
-dans un cadre commercial (animation d'ateliers, cours, offres de conseil).
+Copier, diffuser, traduire, modifier et adapter la formation, y compris
+dans un cadre commercial (ateliers, cours, offres de conseil).
 
-À DEUX CONDITIONS
------------------
-1. Citer la source : « Le marketing mix en 9P, KairosTech / Maxime Rumpler,
-   https://github.com/MaximeRumpler/Marketing_Mix_9P », avec un lien vers
-   la licence, et indiquer si vous avez modifié le contenu.
-2. Partager vos versions modifiées sous la même licence (CC BY-SA 4.0).
+À CONDITION DE
+--------------
+1. Créditer l'œuvre, par exemple :
+   « Le marketing mix en 9P », Maxime Rumpler (KairosTech),
+   https://github.com/MaximeRumpler/Marketing_Mix_9P, licence CC BY-SA 4.0
+   (https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
+   Si vous l'avez modifiée, indiquez-le (par exemple « adapté de… ») et
+   gardez la mention de l'œuvre d'origine.
+2. Si vous diffusez une version modifiée, la diffuser sous CC BY-SA 4.0
+   ou sous une licence que Creative Commons reconnaît comme compatible.
+3. N'ajouter aucune restriction juridique ni mesure technique (DRM) qui
+   empêcherait les autres de faire ce que la licence permet.
 
 MARQUES
 -------
-Le nom et le logo KairosTech ne sont pas couverts par la licence. Ne les
-utilisez pas d'une façon qui laisse croire que KairosTech a approuvé votre
-version modifiée.
+La licence ne donne aucun droit sur les marques (section 2(b)(2)). Le nom
+KairosTech figure dans le crédit, et le bandeau KairosTech des diapositives
+peut rester dans une version modifiée, à condition que la mention
+« adapté de » soit visible et que rien ne laisse croire que KairosTech ou
+l'auteur approuve cette version. L'auteur peut demander le retrait de ce
+bandeau d'une version modifiée (section 3(a)(3)). Les autres marques citées
+en exemple (Post-it, 3M…) appartiennent à leurs titulaires.
 
 CONTENUS TIERS
 --------------
-Les références bibliographiques citées dans la formation (McCarthy, Booms et
-Bitner, Lovelock, Godin) sont mentionnées à titre de sources. La formation
-n'en reproduit aucun extrait. Elle ne contient aucune photographie ni image
-de tiers : les visuels sont des formes vectorielles créées pour l'occasion.
-Les polices Outfit et IBM Plex Mono sont distribuées sous SIL Open Font
-License et ne sont pas incluses dans ce dépôt.
+- Icônes Lucide (luggage, printer, package, telescope, footprints, plane,
+  chef-hat, sticky-note, coffee, circle-check, circle-x) : licence ISC,
+  Copyright (c) Lucide Icons and Contributors ; une partie dérive du
+  projet Feather, licence MIT, Copyright (c) 2013-present Cole Bemis.
+  Texte complet : LICENSES/Lucide-ISC-and-Feather-MIT.txt
+- Polices Outfit et IBM Plex Mono : SIL Open Font License 1.1. Des
+  sous-ensembles sont incorporés dans le PDF, comme l'OFL le permet. Elles
+  ne sont pas couvertes par la licence CC BY-SA.
+- Les ouvrages cités (Borden, McCarthy, Booms et Bitner, Lovelock, Godin,
+  Morrison) le sont à titre de références ; la formation n'en reproduit
+  aucun extrait.
