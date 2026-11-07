@@ -12,13 +12,14 @@
 
 </div>
 
-# Le marketing mix en 9P : formation libre, des 4P aux 9P
+# Le marketing mix en 9P : des 4P aux 9P
 
 ## De quoi s'agit-il ?
 
-Une formation courte et libre sur le marketing mix, pour les personnes qui doivent faire adopter une offre sans avoir fait d'école de commerce : fondateurs, ingénieurs, chercheurs, chefs de projet.
+Une formation courte sur le marketing mix, pour les personnes qui doivent faire adopter une offre sans avoir fait d'école de commerce : fondateurs, ingénieurs, chercheurs, chefs de projet.
 
-Le marketing mix rassemble les leviers que l'on règle pour qu'une offre trouve son public. Le modèle d'origine en compte quatre, les 4P. Le marketing des services en ajoute trois, ce qui donne les 7P. Cette formation en ajoute deux autres, d'où les 9P. Chaque P est traité en trois diapositives : la question à se poser, un exemple concret, l'erreur que l'on voit le plus souvent.
+Le marketing mix rassemble les leviers que l'on règle pour qu'une offre trouve son public. Le modèle d'origine en compte quatre, les 4P. Le marketing des services en ajoute trois, ce qui donne les 7P. Cette formation en ajoute deux autres, d'où les 9P. 
+Chaque P est traité en trois diapositives : la question à se poser, un exemple concret, l'erreur que l'on voit le plus souvent.
 
 <p align="center">
   <a href="formation/Marketing_Mix_9P.pdf">
@@ -70,18 +71,7 @@ Les sept premiers P forment le modèle classique du marketing des services. Les 
 | 1996 | Christopher Lovelock | Ses manuels de marketing des services diffusent ces P dans l'enseignement |
 | 2003 | Seth Godin | *Purple Cow* : dans un marché saturé, seul ce qui est remarquable se remarque. La formation en fait son 8e P |
 
-Le 9e P, Partenariat, apparaît par exemple chez Alastair Morrison, dans ses 8P du marketing touristique (1989). Il circule depuis dans plusieurs variantes à 8 ou 10P, sans version de référence. La formation le prend comme une grille de réflexion, pas comme un standard.
-
-* * *
-
-## Un mix, pas une liste
-
-Toucher un levier en déplace d'autres. La diapositive 34 en donne deux exemples :
-
-- Prix (2) et preuves (7) : baisser le prix sans soigner les preuves fait chuter la qualité perçue, et la marge avec.
-- Promotion (4) et processus (6) : lancer la communication avant que le parcours soit prêt attire des clients vers une offre qui ne tient pas encore.
-
-La diapositive 35 reprend les neuf questions sur une seule page, à garder sous les yeux pour votre propre cas.
+Le 9e P, Partenariat, apparaît par exemple chez Alastair Morrison, dans ses 8P du marketing touristique (1989). Il circule depuis dans plusieurs variantes à 8 ou 10P. 
 
 * * *
 
@@ -94,7 +84,8 @@ La diapositive 35 reprend les neuf questions sur une seule page, à garder sous 
 | Un mix, pas une liste | Pourquoi tout se tient | 34 |
 | À emporter | Neuf questions à reposer à votre propre cas | 35-36 |
 
-Aucun prérequis. Selon l'usage :
+Aucun prérequis. 
+Selon l'usage :
 
 - en lecture seule, comptez 20 à 30 minutes ;
 - en présentation, la formation est prévue pour 45 minutes, questions comprises ;
