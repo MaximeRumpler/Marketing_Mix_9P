@@ -26,7 +26,7 @@ Le marketing mix rassemble les leviers que l'on règle pour qu'une offre trouve 
   </a>
 </p>
 
-**[Lire la formation (PDF)](formation/Marketing_Mix_9P.pdf)** · [Télécharger le PowerPoint modifiable](formation/Marketing_Mix_9P.pptx)
+**[Lire la formation (PDF)](formation/Marketing_Mix_9P.pdf)** · [PowerPoint modifiable](formation/Marketing_Mix_9P.pptx) · [Fiche A4 des neuf questions](formation/Fiche_9P_A4.pdf) · [Guide animateur](animation/guide-animateur.md) · [Exercices](exercices/) · [Site de la formation](https://maximerumpler.github.io/Marketing_Mix_9P/)
 
 * * *
 
@@ -100,6 +100,8 @@ Aucun prérequis. Selon l'usage :
 - en présentation, la formation est prévue pour 45 minutes, questions comprises ;
 - en atelier, chaque P se termine par une question « Et pour vous ? » à laquelle les participants répondent sur leur propre offre : prévoyez alors 1 h 30 à 2 h.
 
+Pour animer, le [guide animateur](animation/guide-animateur.md) donne pour chaque diapositive la question d'ouverture, les relances, les points à retenir et la transition, avec des durées par séquence. Les [exercices](exercices/) proposent un cas fil rouge corrigé, un canevas pour votre propre offre et un quiz. La [fiche A4](formation/Fiche_9P_A4.pdf) reprend les neuf questions sur une page, à distribuer.
+
 * * *
 
 ## Questions fréquentes
@@ -121,6 +123,9 @@ Non. La plupart des exemples viennent de la vie courante : une valise, une impri
 |:--|:--|
 | [`formation/Marketing_Mix_9P.pdf`](formation/Marketing_Mix_9P.pdf) | Lire ou projeter, sur n'importe quel appareil |
 | [`formation/Marketing_Mix_9P.pptx`](formation/Marketing_Mix_9P.pptx) | Changer les textes, les exemples ou les couleurs pour votre secteur |
+| [`formation/Fiche_9P_A4.pdf`](formation/Fiche_9P_A4.pdf) | Imprimer les neuf questions sur une page, avec de la place pour répondre ([source HTML](formation/source/Fiche_9P_A4.html)) |
+| [`animation/guide-animateur.md`](animation/guide-animateur.md) | Animer la formation, diapositive par diapositive |
+| [`exercices/`](exercices/) | Cas fil rouge, canevas 9P et quiz |
 
 Le PowerPoint utilise deux polices libres, [Outfit](https://fonts.google.com/specimen/Outfit) et [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono). Installez-les pour retrouver le rendu du PDF.
 
