@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ou adaptez cette formation, merci de la citer ainsi."
+title: "Le marketing mix en 9P"
+abstract: "Formation libre en français sur le marketing mix : des 4P aux 9P, avec pour chaque levier une question clé, un exemple concret et l'erreur la plus fréquente. 36 diapositives, environ 45 minutes."
+type: dataset
+authors:
+  - family-names: "Rumpler"
+    given-names: "Maxime"
+    website: "https://kairostech.fr"
+version: "1.0.0"
+date-released: "2026-11-07"
+license: CC-BY-SA-4.0
+url: "https://github.com/MaximeRumpler/Marketing_Mix_9P"
+repository: "https://github.com/MaximeRumpler/Marketing_Mix_9P"
+keywords:
+  - marketing mix
+  - 9P
+  - 7P
+  - 4P
+  - Purple Cow
+  - go-to-market
+  - formation
+language: fra
